@@ -76,9 +76,3 @@ The **HumanChain AI Safety Incident Log API** is a backend service for logging, 
 ### Troubleshooting
 - Ensure that PostgreSQL and Redis are running and accessible.
 - Make sure all environment variables are correctly configured.
-
-### License
-   ## This project is licensed under the MIT License.
-
-
-
